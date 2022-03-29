@@ -10,3 +10,4 @@ prise en main de Py Charm avec de petits exercices
 * [multiples](multiple.py)
 * [nombre secret (simple)](secretNumbr.py)
 * [les méthodes et fonctions à appliquer sur le type str](strings.py)
+* [listes et tuples]()
