@@ -12,3 +12,4 @@ prise en main de Py Charm avec de petits exercices
 * [les méthodes et fonctions à appliquer sur le type str](strings.py)
 * [listes et tuples](tests-list_tuple.py) [Tp](restaurant.py)
 * [set](set_test.py), [fonction](fonction_test.py) et [class](class_test.py), [Tp](liste_employes.py)
+* [poo](class_test.py) et [abstraction](abstraction.py)
